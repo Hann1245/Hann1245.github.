@@ -1,1 +1,50 @@
-# Hann1245.github.
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>prj</title>
+<style>
+img {
+  width: 30%;
+  height: 30%
+}
+</style>
+</head>
+<body>
+
+  <!-- Thẻ header (semantic tag) -->
+  <header>
+    <h1>Chào mừng đến với trang web của tôi</h1>
+  </header>
+
+  <!-- Thẻ main (semantic tag) -->
+  <main>
+    <p>Trang web này giới thiệu sở thích và hoạt động yêu thích của tôi.</p>
+
+    <!-- Danh sách có ít nhất 3 mục -->
+    <h2>Sở thích của tôi</h2>
+    <ul>
+      <li>Đọc sách</li>
+      <li>Nghe nhạc</li>
+      <li>Đi du lịch</li>
+    </ul>
+
+    <!-- Ít nhất 3 hình ảnh -->
+    <h2>Những khoảnh khắc yêu thích</h2>
+    <img src="https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fvtv.vn%2Fdien-anh%2Fphim-dien-anh-doraemon-thu-43-se-ra-mat-rap-viet-vao-mua-he-nam-nay-20240310151138461.htm&psig=AOvVaw1sCAerQQoeV40ptls9D4sf&ust=1746455170258000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjnqdaCio0DFQAAAAAdAAAAABAE" alt="Hình 1">
+    <img src="https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fcellphones.com.vn%2Fsforum%2Fdoraemon-movie&psig=AOvVaw1sCAerQQoeV40ptls9D4sf&ust=1746455170258000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjnqdaCio0DFQAAAAAdAAAAABAI" alt="Hình 2">
+    <img src="https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fcafef.vn%2Fdoraemon-toan-nang-so-huu-chiec-tui-than-ky-co-mot-khong-hai-nhung-meo-u-co-tuoi-tho-khong-the-thuong-hon-188250430091806486.chn&psig=AOvVaw1sCAerQQoeV40ptls9D4sf&ust=1746455170258000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjnqdaCio0DFQAAAAAdAAAAABAQ" alt="Hình 3">
+
+    <!-- Liên kết ngoài -->
+    <p>Tham khảo thêm tại: 
+      <a href="https://www.google.com.vn/?hl=vi" target="_blank">Google</a>
+    </p>
+  </main>
+
+  <!-- Thẻ footer (semantic tag) -->
+  <footer>
+    <p>&copy; 2025 - Trang web của tôi</p>
+  </footer>
+
+</body>
+</html>
